@@ -1,6 +1,8 @@
 import qrcode
 from qrcode.exceptions import DataOverflowError
 
+print("New Hello GitHub")
+
 def generar_qr():
     try:
         # Solicitar texto o URL
